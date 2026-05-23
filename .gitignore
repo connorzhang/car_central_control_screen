@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.user
+build/
+.qt/
+
+*.doc
+*.docx
+*.pdf
+*.txt
+~$*.docx
